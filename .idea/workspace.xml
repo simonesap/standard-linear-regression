@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d27a98d7-6f75-4a4c-a029-066c0e02e1c5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../.idea/live-coding.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/Machine-learning-per-trading-algoritmico.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classifiers/Logistic-Regression/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classifiers/Logistic-Regression/.idea/Logistic-Regression.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classifiers/Logistic-Regression/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classifiers/Logistic-Regression/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classifiers/Logistic-Regression/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classifiers/Logistic-Regression/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classifiers/Logistic-Regression/Binary/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classifiers/Logistic-Regression/Binary/.idea/log-regression.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classifiers/Logistic-Regression/Binary/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classifiers/Logistic-Regression/Binary/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classifiers/Logistic-Regression/Binary/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classifiers/Logistic-Regression/Binary/Guida-l-binaria.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classifiers/Logistic-Regression/Binary/lg-k-fold.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classifiers/Logistic-Regression/Binary/lg-k-fold.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classifiers/Logistic-Regression/Multi/Guida-logistica-multi.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classifiers/Logistic-Regression/Ordinal/guida-logistica-ordinale.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unsupervised-Learning/Clustering/K-Means-clustering-pair-trading/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unsupervised-Learning/Clustering/K-Means-clustering-pair-trading/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unsupervised-Learning/Clustering/K-Means-clustering-pair-trading/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unsupervised-Learning/Clustering/K-Means-clustering-pair-trading/k-means-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unsupervised-Learning/Clustering/K-Means-clustering-pair-trading/k-means-clustering-pair-trading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../machine-learning-intro/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../machine-learning-intro/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../machine-learning-intro/.idea/machine-learning-intro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../machine-learning-intro/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../machine-learning-intro/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../machine-learning-intro/assets/api/alphaVantage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../machine-learning-intro/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2D258LlxcdJkUXMG2Ge54tBnxyn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Multiple-Linear-Regression/APT" />
+  </component>
+  <component name="RunManager" selected="Python.capm">
+    <configuration name="capm" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Standard-Linear-Regression" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OLS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OLS/capm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ols" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Standard-Linear-Regression" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\matte\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OLS" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OLS/ols.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.capm" />
+      <item itemvalue="Python.ols" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d27a98d7-6f75-4a4c-a029-066c0e02e1c5" name="Changes" comment="" />
+      <created>1659884178723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659884178723</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
